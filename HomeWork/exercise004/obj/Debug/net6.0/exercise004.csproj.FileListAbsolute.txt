@@ -1,0 +1,15 @@
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\obj\Debug\net6.0\exercise004.csproj.AssemblyReference.cache
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\obj\Debug\net6.0\exercise004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\obj\Debug\net6.0\exercise004.AssemblyInfoInputs.cache
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\obj\Debug\net6.0\exercise004.AssemblyInfo.cs
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\obj\Debug\net6.0\exercise004.csproj.CoreCompileInputs.cache
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\bin\Debug\net6.0\exercise004.exe
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\bin\Debug\net6.0\exercise004.deps.json
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\bin\Debug\net6.0\exercise004.runtimeconfig.json
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\bin\Debug\net6.0\exercise004.dll
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\bin\Debug\net6.0\exercise004.pdb
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\obj\Debug\net6.0\exercise004.dll
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\obj\Debug\net6.0\refint\exercise004.dll
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\obj\Debug\net6.0\exercise004.pdb
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\obj\Debug\net6.0\exercise004.genruntimeconfig.cache
+C:\Users\Shuga\Desktop\Examples\HomeWork\exercise004\obj\Debug\net6.0\ref\exercise004.dll
